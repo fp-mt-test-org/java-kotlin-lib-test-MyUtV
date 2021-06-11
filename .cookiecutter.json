@@ -1,0 +1,36 @@
+{
+    "_template": "/var/folders/3z/qpmfl8q908x43zcc0hm8p6380000gq/T/bec52d25-6292-40c0-88dc-6d3b04b8d9ac/template",
+    "access": "fp-mt",
+    "artifact_id": "java-kotlin-lib-test-MyUtV",
+    "component_id": "java-kotlin-lib-test-MyUtV",
+    "description": "This project was created from the template-java-kotlin-library template.",
+    "destination": {
+        "git": {
+            "filepath": "",
+            "filepathtype": "",
+            "full_name": "fp-mt-test-org/java-kotlin-lib-test-MyUtV",
+            "git_suffix": "False",
+            "hash": "",
+            "href": "https://github.com/fp-mt-test-org/java-kotlin-lib-test-MyUtV",
+            "name": "java-kotlin-lib-test-MyUtV",
+            "organization": "fp-mt-test-org",
+            "owner": "fp-mt-test-org",
+            "pathname": "/fp-mt-test-org/java-kotlin-lib-test-MyUtV",
+            "port": null,
+            "protocol": "https",
+            "protocols": [
+                "https"
+            ],
+            "query": {},
+            "ref": "",
+            "resource": "github.com",
+            "search": "",
+            "source": "github.com",
+            "token": "",
+            "user": ""
+        }
+    },
+    "java_package_name": "javakotlinlibtestMyUtV",
+    "owner": "Product Infrastructure",
+    "storePath": "https://github.com/fp-mt-test-org/java-kotlin-lib-test-MyUtV"
+}
